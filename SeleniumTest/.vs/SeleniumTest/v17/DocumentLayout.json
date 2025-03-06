@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\SeleniumTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45BA7A25-F330-42B7-830D-1A1018E84F2F}|SeleniumTest\\SeleniumTest.csproj|c:\\users\\pc\\source\\repos\\seleniumtest\\seleniumtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BA7A25-F330-42B7-830D-1A1018E84F2F}|SeleniumTest\\SeleniumTest.csproj|solutionrelative:seleniumtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BA7A25-F330-42B7-830D-1A1018E84F2F}|SeleniumTest\\SeleniumTest.csproj|c:\\users\\pc\\source\\repos\\seleniumtest\\seleniumtest\\seleniumcustommethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BA7A25-F330-42B7-830D-1A1018E84F2F}|SeleniumTest\\SeleniumTest.csproj|solutionrelative:seleniumtest\\seleniumcustommethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BA7A25-F330-42B7-830D-1A1018E84F2F}|SeleniumTest\\SeleniumTest.csproj|c:\\users\\pc\\source\\repos\\seleniumtest\\seleniumtest\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BA7A25-F330-42B7-830D-1A1018E84F2F}|SeleniumTest\\SeleniumTest.csproj|solutionrelative:seleniumtest\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BA7A25-F330-42B7-830D-1A1018E84F2F}|SeleniumTest\\SeleniumTest.csproj|c:\\users\\pc\\source\\repos\\seleniumtest\\seleniumtest\\n11com.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BA7A25-F330-42B7-830D-1A1018E84F2F}|SeleniumTest\\SeleniumTest.csproj|solutionrelative:seleniumtest\\n11com.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BA7A25-F330-42B7-830D-1A1018E84F2F}|SeleniumTest\\SeleniumTest.csproj|c:\\users\\pc\\source\\repos\\seleniumtest\\seleniumtest\\employeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BA7A25-F330-42B7-830D-1A1018E84F2F}|SeleniumTest\\SeleniumTest.csproj|solutionrelative:seleniumtest\\employeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeleniumCustomMethods.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SeleniumTest\\SeleniumTest\\SeleniumCustomMethods.cs",
+              "RelativeDocumentMoniker": "SeleniumTest\\SeleniumCustomMethods.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SeleniumTest\\SeleniumTest\\SeleniumCustomMethods.cs",
+              "RelativeToolTip": "SeleniumTest\\SeleniumCustomMethods.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:10:06.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SeleniumTest\\SeleniumTest\\Register.cs",
+              "RelativeDocumentMoniker": "SeleniumTest\\Register.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SeleniumTest\\SeleniumTest\\Register.cs",
+              "RelativeToolTip": "SeleniumTest\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:11:14.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "n11com.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SeleniumTest\\SeleniumTest\\n11com.cs",
+              "RelativeDocumentMoniker": "SeleniumTest\\n11com.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SeleniumTest\\SeleniumTest\\n11com.cs",
+              "RelativeToolTip": "SeleniumTest\\n11com.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:10:43.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SeleniumTest\\SeleniumTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SeleniumTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SeleniumTest\\SeleniumTest\\UnitTest1.cs",
+              "RelativeToolTip": "SeleniumTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:22:34.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeTest.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SeleniumTest\\SeleniumTest\\EmployeeTest.cs",
+              "RelativeDocumentMoniker": "SeleniumTest\\EmployeeTest.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SeleniumTest\\SeleniumTest\\EmployeeTest.cs",
+              "RelativeToolTip": "SeleniumTest\\EmployeeTest.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAADQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:19:25.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
